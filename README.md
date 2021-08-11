@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... making past mistakes made by others right
 - 🌱 I’m currently learning ... covert operations
 - 💞️ I’m looking to collaborate on ... special forces 
-- 📫 How to reach me ...
+- 📫 How to reach me ... chloemccreery664@gmail.com 
 
 <!---
 ChloeGITxx/ChloeGITxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
